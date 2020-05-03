@@ -1,0 +1,25 @@
+body {
+    display: flex;
+}
+
+.content {
+    width: 100vh;
+    margin: auto;
+    margin-top: 10vh;
+}
+
+.logo {
+    color: black;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0 auto 5vh;
+}
+
+.project-text {
+    color: black;
+    font-size: 24px;
+    font-family: Arial, Helvetica;
+    text-align: center;
+    margin: 1vh auto 2vh;
+}
